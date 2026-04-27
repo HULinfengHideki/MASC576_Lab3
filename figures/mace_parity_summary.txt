@@ -1,0 +1,11 @@
+MACE Parity Summary
+===================
+Dataset: output/sample_config.xyz/training_data.extxyz
+Model: checkpoints/maceft_sample75C_run-123.model
+Device: cpu
+Frames: 244
+Force components: 54900
+Energy MAE  = 0.0007419638 eV/atom
+Energy RMSE = 0.0009549229 eV/atom
+Force MAE   = 0.0868854884 eV/A
+Force RMSE  = 0.1129862024 eV/A

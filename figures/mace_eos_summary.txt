@@ -1,0 +1,8 @@
+MACE EOS Summary
+================
+Structure: output/sample_config.xyz/relax.xyz
+Model: checkpoints/maceft_sample75C_run-123.model
+Device: cpu
+V0 = 1010.1078441400 A^3
+E0 = -615.5943381930 eV
+B  = 158.337512 GPa

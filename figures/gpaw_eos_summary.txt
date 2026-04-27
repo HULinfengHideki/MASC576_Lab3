@@ -1,0 +1,8 @@
+GPAW EOS Summary
+================
+Structure: output/sample_config.xyz/relax.xyz
+ecut: 400.0 eV
+kpts: (1, 1, 1)
+V0 = 1008.2515351011 A^3
+E0 = -615.8256013256 eV
+B  = 166.126458 GPa
